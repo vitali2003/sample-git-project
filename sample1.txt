@@ -1,3 +1,4 @@
 This is sample 1 file !! 
-Added another line 
-Added another line 
+add 1
+add 2
+add 3
